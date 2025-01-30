@@ -1,0 +1,72 @@
+<?xml version="1.0"?>  
+<PurchaseOrders>  
+  <PurchaseOrder PurchaseOrderNumber="99503" OrderDate="1999-10-20">  
+    <Address Type="Shipping">  
+      <Name>Иван Иванович</Name>  
+      <Street>Жукова</Street>  
+      <City>Краснодар</City>  
+      <Zip>109996</Zip>  
+      <Country>Россия</Country>  
+    </Address>  
+    <Address Type="Billing">  
+      <Name>Наталья Шельменкова</Name>  
+      <Street>Краснодар</Street>  
+      <City>Краснодар</City>   
+      <Zip>954564</Zip>  
+      <Country>Россия</Country>  
+    </Address>  
+    <DeliveryNotes>Доставить в вечернее время.</DeliveryNotes>  
+    <Items>  
+      <Item PartNumber="872-AA">  
+        <ProductName>Мясорубка</ProductName>  
+        <Quantity>1</Quantity>  
+        <USPrice>148.95</USPrice>  
+        <Comment>Нужна серебристая</Comment>  
+      </Item>  
+      <Item PartNumber="926-AA">  
+        <ProductName>Кастрюля</ProductName>  
+        <Quantity>2</Quantity>  
+        <USPrice>39.98</USPrice>  
+        <ShipDate>1999-05-21</ShipDate>  
+      </Item>  
+    </Items>  
+  </PurchaseOrder>  
+  <PurchaseOrder PurchaseOrderNumber="99505" OrderDate="1999-10-22">  
+    <Address Type="Shipping">  
+      <Name>Кристиан Бойл</Name>  
+      <Street>Университетская наб.</Street>  
+      <City>Москва</City>  
+      <Zip>198112</Zip>  
+      <Country>Россия</Country>  
+    </Address>  
+    <DeliveryNotes>Позвонить за час до доставки.</DeliveryNotes>  
+    <Items>  
+      <Item PartNumber="456-NM">  
+        <ProductName>Блок питания</ProductName>  
+        <Quantity>1</Quantity>  
+        <USPrice>45.99</USPrice>  
+      </Item>  
+    </Items>  
+  </PurchaseOrder>  
+  <PurchaseOrder PurchaseOrderNumber="99504" OrderDate="1999-10-22">  
+    <Address Type="Shipping">  
+      <Name>Ерофей Барнаулов</Name>  
+      <Street>Тенистая</Street>  
+      <City>Минск</City>  
+      <Zip>398112</Zip>  
+      <Country>Беларусь</Country>  
+    </Address>  
+    <Items>  
+      <Item PartNumber="898-AZ">  
+        <ProductName>Компьютерная мышь</ProductName>  
+        <Quantity>1</Quantity>  
+        <USPrice>29.99</USPrice>  
+      </Item>  
+      <Item PartNumber="898-AM">  
+        <ProductName>Коврик для мыши</ProductName>  
+        <Quantity>1</Quantity>  
+        <USPrice>4.99</USPrice>  
+      </Item>  
+    </Items>  
+  </PurchaseOrder>  
+</PurchaseOrders>

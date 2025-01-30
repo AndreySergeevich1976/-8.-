@@ -1,0 +1,485 @@
+﻿Region,Марка,City,Sessions,Конверсия,Просчет,Продажа
+Krasnodar Krai,Mersedes,Krasnodar,24589,10430,2806,1373
+Krasnodar Krai,Mersedes,Sochi,3048,1217,381,182
+Rostov Oblast,Mersedes,Rostov-on-Don,1192,509,169,86
+Stavropol Krai,Mersedes,Stavropol,973,404,112,57
+Krasnodar Krai,Mersedes,(not set),923,392,114,54
+Krasnodar Krai,Mersedes,Gelendzhik,857,370,128,63
+Voronezh Oblast,Mersedes,Voronezh,761,333,116,58
+Moscow,Mersedes,Moscow,564,256,69,36
+Chechnya,Mersedes,Grozny,433,179,60,27
+Crimea,Mersedes,Simferopol,465,176,52,33
+Krasnodar Krai,Mersedes,Novorossiysk,364,158,40,23
+Adygea,Mersedes,Maykop,336,157,54,29
+(not set),Mersedes,(not set),318,113,37,16
+Krasnodar Krai,Mersedes,Anapa,207,97,23,11
+Sevastopol' city,Mersedes,Sevastopol,253,95,25,15
+Krasnodar Krai,Mersedes,Armavir,225,91,28,13
+Crimea,Mersedes,Kerch,225,85,24,9
+Saint Petersburg,Mersedes,Saint Petersburg,239,84,20,10
+Stavropol Krai,Mersedes,Pyatigorsk,214,82,29,13
+Krasnodar Krai,Mersedes,Slavyansk-na-Kubani,185,81,19,6
+Krasnodar Krai,Mersedes,Tuapse,176,75,27,14
+Sverdlovsk Oblast,Mersedes,Yekaterinburg,121,53,17,9
+Krasnodar Krai,Mersedes,Kanevskaya,111,52,16,9
+Krasnodar Krai,Mersedes,Tikhoretsk,119,47,14,7
+Republic of Bashkortostan,Mersedes,Ufa,102,45,21,8
+Stavropol Krai,Mersedes,Essentuki,103,45,14,9
+Adygea,Mersedes,Yablonovsky,93,42,12,4
+Crimea,Mersedes,Yalta,65,41,7,3
+Udmurt Republic,Mersedes,Izhevsk,100,33,8,5
+Karachay-Cherkessia,Mersedes,Cherkessk,76,32,14,9
+Stavropol Krai,Mersedes,Nevinnomyssk,69,32,10,7
+Astrakhan Oblast,Mersedes,Astrakhan,72,31,6,3
+Khabarovsk Krai,Mersedes,Khabarovsk,78,30,7,2
+Krasnodar Krai,Mersedes,Yeysk,82,29,6,4
+Crimea,Mersedes,(not set),61,28,6,3
+Irkutsk Oblast,Mersedes,Irkutsk,88,28,11,6
+Krasnodar Krai,Mersedes,Belorechensk,44,27,6,1
+Khanty-Mansi Autonomous Okrug,Mersedes,Surgut,67,24,7,4
+Kabardino-Balkaria,Mersedes,Nalchik,52,23,8,3
+Stavropol Krai,Mersedes,(not set),52,23,7,4
+Republic of Dagestan,Mersedes,Makhachkala,46,22,5,5
+Virginia,Mersedes,Ashburn,42,22,3,2
+Novosibirsk Oblast,Mersedes,Novosibirsk,35,21,4,2
+North Ossetia–Alania,Mersedes,Vladikavkaz,62,20,9,4
+Krasnoyarsk Krai,Mersedes,Norilsk,49,18,7,5
+Samara Oblast,Mersedes,Samara,29,18,7,4
+Crimea,Mersedes,Yevpatoriya,41,17,10,8
+Krasnodar Krai,Mersedes,Novotitarovskaya,34,17,3,2
+California,Mersedes,Irvine,32,16,3,0
+Chelyabinsk Oblast,Mersedes,Chelyabinsk,62,16,3,1
+Crimea,Mersedes,Feodosiya,35,16,2,2
+Krasnodar Krai,Mersedes,Lenina,36,16,5,3
+Krasnodar Krai,Mersedes,Yuzhnyy,38,16,6,5
+Volgograd Oblast,Mersedes,Volgograd,38,16,1,0
+Krasnodar Krai,Mersedes,Ust-Labinsk,29,15,3,1
+Krasnoyarsk Krai,Mersedes,Krasnoyarsk,31,15,5,4
+(not set),Mersedes,Yerevan,22,14,2,1
+Tomsk Oblast,Mersedes,Tomsk,27,13,11,5
+Yamalo-Nenets Autonomous Okrug,Mersedes,Novy Urengoy,21,13,1,1
+Donetsk Oblast,Mersedes,Donetsk,23,12,4,2
+Ingushetia,Mersedes,Nazran,26,12,3,1
+Kirovohrad Oblast,Mersedes,(not set),19,12,4,3
+Rostov Oblast,Mersedes,Taganrog,25,12,3,1
+Adygea,Mersedes,(not set),34,11,2,2
+Kamchatka Krai,Mersedes,Petropavlovsk-Kamchatskiy,28,11,5,1
+Krasnodar Krai,Mersedes,Korenovsk,32,11,2,0
+Krasnodar Krai,Mersedes,Leningradskaya,14,11,4,1
+Rostov Oblast,Mersedes,Bataysk,41,11,6,4
+Santiago Metropolitan Region,Mersedes,Santiago,20,11,3,1
+Abkhazia,Mersedes,(not set),20,10,2,2
+Krasnodar Krai,Mersedes,Znamenskiy,25,10,1,0
+Nizhny Novgorod Oblast,Mersedes,Nizhny Novgorod,27,10,2,1
+Sakha Republic,Mersedes,Yakutsk,18,10,3,3
+Almaty Province,Mersedes,Almaty,16,9,0,0
+Chuvashia Republic,Mersedes,Cheboksary,15,9,4,1
+Krasnodar Krai,Mersedes,Kushchyovskaya,14,9,2,0
+Krasnodar Krai,Mersedes,Temryuk,30,9,0,0
+Krasnodar Krai,Mersedes,Tschernomorski,16,9,2,2
+Kyiv city,Mersedes,Kyiv,24,9,5,4
+Stavropol Krai,Mersedes,Kislovodsk,17,9,5,1
+Krasnodar Krai,Mersedes,Afipsky,19,8,1,1
+Omsk Oblast,Mersedes,Omsk,25,8,7,3
+Perm Krai,Mersedes,Perm,17,8,3,0
+Crimea,Mersedes,Bakhchysarai,10,7,1,1
+Crimea,Mersedes,Dzhankoi,22,7,4,1
+Lagos,Mersedes,Lagos,12,7,1,1
+Primorsky Krai,Mersedes,Vladivostok,20,7,6,1
+Republic of Dagestan,Mersedes,Derbent,25,7,2,0
+Rostov Oblast,Mersedes,Volgodonsk,18,7,0,0
+Sakhalin Oblast,Mersedes,Yuzhno-Sakhalinsk,15,7,1,1
+Stavropol Krai,Mersedes,Mikhaylovsk,28,7,4,1
+Tatarstan,Mersedes,Kazan,12,7,6,3
+(not set),Mersedes,Baku,9,6,0,0
+Belgorod Oblast,Mersedes,Belgorod,25,6,0,0
+Crimea,Mersedes,Alushta,19,6,0,0
+KalmyMersedes,Mersedes,Elista,11,6,2,1
+Lesser Poland Voivodeship,Mersedes,Krakow,15,6,4,2
+Lipetsk Oblast,Mersedes,Lipetsk,17,6,3,3
+Murmansk Oblast,Mersedes,Murmansk,11,6,1,1
+Sakha Republic,Mersedes,(not set),15,6,1,0
+Stavropol Krai,Mersedes,Mineralnye Vody,13,6,2,0
+Yamalo-Nenets Autonomous Okrug,Mersedes,(not set),10,6,4,2
+Crimea,Mersedes,Oktyabrs'ke,15,5,3,2
+Donetsk Oblast,Mersedes,Makiivka,13,5,1,1
+Khanty-Mansi Autonomous Okrug,Mersedes,Nizhnevartovsk,8,5,0,0
+Krasnodar Krai,Mersedes,Vyselki,7,5,0,0
+Rostov Oblast,Mersedes,(not set),16,5,5,3
+Crimea,Mersedes,Sudak,5,4,1,0
+Geneva,Mersedes,Geneva,12,4,1,0
+Kaliningrad Oblast,Mersedes,Kaliningrad,4,4,2,1
+Krasnodar Krai,Mersedes,Kropotkin,13,4,0,0
+Krasnodar Krai,Mersedes,Primorsko-Akhtarsk,8,4,2,2
+Krasnodar Krai,Mersedes,Severskaya,11,4,1,0
+Kurgan Oblast,Mersedes,Kurgan,7,4,0,0
+Moscow Oblast,Mersedes,(not set),10,4,1,0
+Moscow Oblast,Mersedes,Khimki,7,4,0,0
+Stavropol Krai,Mersedes,Georgiyevsk,10,4,3,2
+Tashkent Region,Mersedes,Tashkent,5,4,0,0
+Tver Oblast,Mersedes,Tver,9,4,2,1
+Yamalo-Nenets Autonomous Okrug,Mersedes,Nadym,7,4,0,0
+Adygea,Mersedes,Enem,5,3,1,0
+Amur Oblast,Mersedes,Blagoveshchensk,7,3,0,0
+Ashgabat,Mersedes,Ashgabat,4,3,1,1
+Attica,Mersedes,Pireas,8,3,1,1
+Budapest,Mersedes,Budapest,4,3,0,0
+Crimea,Mersedes,Chornomors'ke,11,3,1,0
+Crimea,Mersedes,Haspra,9,3,1,1
+Crimea,Mersedes,Krasnohvardiis'ke,16,3,1,1
+Crimea,Mersedes,Saky,5,3,1,0
+Hesse,Mersedes,Frankfurt,5,3,1,1
+Kemerovo Oblast,Mersedes,Novokuznetsk,8,3,1,1
+Khabarovsk Krai,Mersedes,Komsomolsk-on-Amur,3,3,1,1
+Krasnodar Krai,Mersedes,Abinsk,9,3,2,1
+Krasnodar Krai,Mersedes,Bryukhovetskaya,11,3,1,0
+Krasnodar Krai,Mersedes,Dinskaya,14,3,0,0
+Krasnoyarsk Krai,Mersedes,(not set),7,3,0,0
+Luhansk Oblast,Mersedes,Khrustalnyi,4,3,1,0
+Mari El Republic,Mersedes,Yoshkar-Ola,3,3,0,
+Moscow Oblast,Mersedes,Podolsk,4,3,0,0
+Orenburg Oblast,Mersedes,Orenburg,8,3,2,0
+Provence-Alpes-Cote d'Azur,Mersedes,Nice,3,3,1,0
+Rostov Oblast,Mersedes,Kamensk-Shakhtinsky,3,3,1,1
+Rostov Oblast,Mersedes,Shakhty,11,3,0,0
+Sakha Republic,Mersedes,Mirny,10,3,2,1
+Saratov Oblast,Mersedes,Saratov,5,3,1,0
+Tyumen Oblast,Mersedes,Tyumen,16,3,0,0
+Yaroslavl Oblast,Mersedes,Yaroslavl,5,3,0,0
+(not set),Mersedes,Hurzuf,14,2,1,0
+Abkhazia,Mersedes,Gagra,4,2,1,1
+Abkhazia,Mersedes,Sokhumi,8,2,1,1
+Altai Krai,Mersedes,Barnaul,2,2,0,
+Arkhangelsk Oblast,Mersedes,Severodvinsk,5,2,1,0
+Attica,Mersedes,Athens,6,2,0,
+Attica,Mersedes,Nikaia,6,2,1,1
+California,Mersedes,Santa Clara,2,2,0,
+Chelyabinsk Oblast,Mersedes,Magnitogorsk,4,2,1,0
+Chon Buri,Mersedes,Pattaya City,2,2,2,1
+County Dublin,Mersedes,Dublin,3,2,0,0
+Crimea,Mersedes,Bilohirs'k,9,2,0,0
+Crimea,Mersedes,Krasnoperekops'k,4,2,1,0
+Dnipropetrovsk Oblast,Mersedes,Kryvyi Rih,13,2,1,0
+Donetsk Oblast,Mersedes,Horlivka,3,2,1,0
+Ho Chi Minh City,Mersedes,Ho Chi Minh City,3,2,0,0
+Ivanovo Oblast,Mersedes,Ivanovo,2,2,1,0
+Kaluga Oblast,Mersedes,Kaluga,8,2,2,1
+Karagandy Province,Mersedes,Karagandy,4,2,2,1
+Khanty-Mansi Autonomous Okrug,Mersedes,(not set),6,2,0,0
+Kharkiv Oblast,Mersedes,Kharkiv,5,2,1,0
+Kirov Oblast,Mersedes,Kirov,4,2,2,1
+Krasnodar Krai,Mersedes,Agoi,9,2,0,0
+Krasnodar Krai,Mersedes,Gaiduk,5,2,0,0
+Krasnodar Krai,Mersedes,Gulkevichi,2,2,2,1
+Krasnodar Krai,Mersedes,Industrial'nyy,4,2,0,0
+Krasnodar Krai,Mersedes,Kurganinsk,4,2,1,0
+Krasnodar Krai,Mersedes,Medvedovskaya,4,2,1,1
+Krasnodar Krai,Mersedes,Novopokrovskaya,3,2,1,0
+Krasnodar Krai,Mersedes,Poltavskaya,4,2,0,0
+Krasnodar Krai,Mersedes,Tbilisskaya,4,2,0,0
+Krasnodar Krai,Mersedes,Verkhnebakanski,6,2,0,0
+Krasnodar Krai,Mersedes,Vityazevo,3,2,0,0
+Kursk Oblast,Mersedes,Kursk,6,2,0,0
+Leningrad Oblast,Mersedes,Vyborg,2,2,2,1
+Lviv Oblast,Mersedes,Lviv,4,2,0,0
+Moscow Oblast,Mersedes,Vidnoye,3,2,3,2
+Nenets Autonomous Okrug,Mersedes,(not set),5,2,0,0
+North Holland,Mersedes,Amsterdam,2,2,0,0
+North Rhine-Westphalia,Mersedes,Dortmund,3,2,0,0
+Republic of Dagestan,Mersedes,Kizilyurt,5,2,0,0
+Riga,Mersedes,Riga,3,2,0,
+Ryazan Oblast,Mersedes,Ryazan,4,2,0,0
+Sakha Republic,Mersedes,Neryungri,2,2,2,2
+Samara Oblast,Mersedes,Syzran,4,2,0,0
+Skane County,Mersedes,Malmo,2,2,0,
+Smolensk Oblast,Mersedes,Smolensk,8,2,0,0
+South Sulawesi,Mersedes,Makassar,2,2,1,0
+Stavropol Krai,Mersedes,Novoalexandrovsk,4,2,1,0
+Tel Aviv District,Mersedes,Tel Aviv-Yafo,7,2,0,0
+Ulyanovsk Oblast,Mersedes,Dimitrovgrad,2,2,,
+Virginia,Mersedes,Glen Allen,3,2,2,0
+Volgograd Oblast,Mersedes,Volzhskiy,3,2,1,0
+Vologda Oblast,Mersedes,Cherepovets,4,2,0,0
+Yamalo-Nenets Autonomous Okrug,Mersedes,Salekhard,9,2,1,0
+Zabaykalsky Krai,Mersedes,(not set),4,2,0,0
+(not set),Mersedes,Alupka,1,1,1,1
+(not set),Mersedes,Baherove,1,1,0,
+(not set),Mersedes,Belgrade,2,1,1,1
+(not set),Mersedes,Sumqayit,2,1,0,0
+Abkhazia,Mersedes,Gantiadi,1,1,1,0
+Abkhazia,Mersedes,Gudauta,1,1,,
+Adygea,Mersedes,Adygeysk,3,1,0,0
+Adygea,Mersedes,Giaginskaya,1,1,,
+Amur Oblast,Mersedes,(not set),3,1,0,0
+Amur Oblast,Mersedes,Svobodny,1,1,,
+Andalusia,Mersedes,(not set),1,1,,
+Antalya,Mersedes,(not set),2,1,0,0
+Antalya,Mersedes,Antalya,1,1,1,1
+Arkhangelsk Oblast,Mersedes,Arkhangelsk,1,1,0,
+Armavir Province,Mersedes,(not set),1,1,,
+Atyrau Province,Mersedes,(not set),1,1,0,
+Atyrau Province,Mersedes,Atyrau,1,1,0,
+Auckland,Mersedes,Auckland,3,1,0,0
+Bali,Mersedes,Denpasar,3,1,0,0
+Basque Country,Mersedes,(not set),1,1,0,
+Bavaria,Mersedes,Nuremberg,1,1,,
+Belgorod Oblast,Mersedes,Stary Oskol,1,1,0,
+Blagoevgrad Province,Mersedes,Bansko,1,1,1,1
+Bryansk Oblast,Mersedes,Bryansk,1,1,0,
+Bucharest,Mersedes,Bucharest,1,1,,
+Bursa,Mersedes,Bursa,1,1,,
+California,Mersedes,Fresno,1,1,0,
+California,Mersedes,Los Angeles,2,1,0,0
+Catalonia,Mersedes,Barcelona,1,1,1,0
+Catalonia,Mersedes,L'Hospitalet de Llobregat,1,1,,
+Center District,Mersedes,Petah Tikva,2,1,1,0
+Chelyabinsk Oblast,Mersedes,Kopeysk,1,1,1,0
+Chisinau,Mersedes,Chisinau,3,1,0,0
+Chukotka Autonomous Okrug,Mersedes,(not set),3,1,0,0
+Chuy Province,Mersedes,(not set),4,1,0,0
+Chuy Province,Mersedes,Bishkek,3,1,0,0
+City of Zagreb,Mersedes,Zagreb,1,1,0,
+Crimea,Mersedes,Armyans'k,1,1,,
+Crimea,Mersedes,Sovjets'kyi,3,1,0,0
+Denizli,Mersedes,Denizli,1,1,1,1
+Distrito Nacional,Mersedes,(not set),1,1,,
+Dnipropetrovsk Oblast,Mersedes,(not set),1,1,,
+Donetsk Oblast,Mersedes,Khrestivka,1,1,,
+Donetsk Oblast,Mersedes,Shakhtars'k,1,1,0,0
+Donetsk Oblast,Mersedes,Yenakijeve,2,1,0,0
+Eastern Province,Mersedes,Al Jubail,1,1,0,0
+England,Mersedes,London,1,1,,
+England,Mersedes,Marlow,2,1,1,0
+England,Mersedes,Slough,2,1,0,0
+Flanders,Mersedes,Meerhout,1,1,1,0
+Gomel Region,Mersedes,Gomel,2,1,1,1
+Gyeonggi-do,Mersedes,Ansan-si,3,1,1,0
+Hrodna Region,Mersedes,Grodno,2,1,0,0
+Issyk-Kul Region,Mersedes,(not set),1,1,1,0
+Jakarta,Mersedes,Jakarta,1,1,,
+Kamchatka Krai,Mersedes,(not set),1,1,,
+Kansas,Mersedes,Coffeyville,4,1,0,0
+Kemerovo Oblast,Mersedes,Kemerovo,8,1,2,1
+Kemerovo Oblast,Mersedes,Kiselyovsk,1,1,0,
+Khanty-Mansi Autonomous Okrug,Mersedes,Khanty-Mansiysk,1,1,1,1
+Khanty-Mansi Autonomous Okrug,Mersedes,Nefteyugansk,4,1,1,0
+Kherson Oblast,Mersedes,Kherson,1,1,,
+Khmelnytskyi Oblast,Mersedes,Kam'yanets'-Podil's'kyi,1,1,,
+Komi Republic,Mersedes,(not set),1,1,,
+Komi Republic,Mersedes,Inta,1,1,0,
+Komi Republic,Mersedes,Syktyvkar,5,1,0,0
+Komi Republic,Mersedes,Vorkuta,6,1,0,0
+Kostanay Province,Mersedes,(not set),1,1,0,
+Kostanay Province,Mersedes,Kostanay,2,1,0,0
+Kostroma Oblast,Mersedes,Kostroma,1,1,,
+Kotayk Province,Mersedes,(not set),1,1,0,
+Krasnodar Krai,Mersedes,Apsheronsk,1,1,,
+Krasnodar Krai,Mersedes,Kavkazskaya,4,1,1,1
+Krasnodar Krai,Mersedes,Novomichailovskas,4,1,1,0
+Krasnodar Krai,Mersedes,Olginka,1,1,,
+Krasnodar Krai,Mersedes,Platnirovskaya,1,1,,
+Krasnodar Krai,Mersedes,Starokorsunskaya,1,1,,
+Krasnodar Krai,Mersedes,Troedobelikovskiy,6,1,0,0
+Krasnoyarsk Krai,Mersedes,Dudinka,1,1,,
+Kyiv Oblast,Mersedes,(not set),1,1,,
+Kyzylorda Province,Mersedes,(not set),5,1,1,0
+Kyzylorda Province,Mersedes,Baikonur,3,1,1,0
+Leningrad Oblast,Mersedes,(not set),2,1,0,0
+Leningrad Oblast,Mersedes,Gatchina,1,1,,
+Liaoning,Mersedes,Shenyang,1,1,,
+Louisiana,Mersedes,(not set),1,1,,
+Luanda Province,Mersedes,(not set),1,1,,
+Luhansk Oblast,Mersedes,Alchevs'k,1,1,0,
+Luhansk Oblast,Mersedes,Antratsyt,1,1,1,1
+Luhansk Oblast,Mersedes,Dovzhansk,1,1,1,0
+Luhansk Oblast,Mersedes,Luhansk,5,1,1,1
+Luhansk Oblast,Mersedes,Sorokyne,4,1,0,0
+Magadan Oblast,Mersedes,(not set),4,1,1,0
+Magadan Oblast,Mersedes,Magadan,3,1,0,0
+Metro Manila,Mersedes,Quezon City,1,1,,
+Minsk Region,Mersedes,Minsk,12,1,1,1
+Mordovia,Mersedes,Saransk,2,1,0,0
+Moscow Oblast,Mersedes,Andreyevka,1,1,1,1
+Moscow Oblast,Mersedes,Balashikha,3,1,0,0
+Moscow Oblast,Mersedes,Dedovsk,1,1,0,
+Moscow Oblast,Mersedes,Dmitrov,3,1,0,0
+Moscow Oblast,Mersedes,Domodedovo,1,1,,
+Moscow Oblast,Mersedes,Elektrostal,1,1,,
+Moscow Oblast,Mersedes,Krasnogorsk,2,1,0,0
+Moscow Oblast,Mersedes,Serpukhov,1,1,1,1
+Moscow Oblast,Mersedes,Shchyolkovo,1,1,,
+Moscow Oblast,Mersedes,Zhukovskiy,1,1,,
+Murmansk Oblast,Mersedes,Gadzhiyevo,1,1,,
+Mykolaiv Oblast,Mersedes,Mykolaiv,2,1,0,0
+Navoiy Region,Mersedes,Navoi,1,1,,
+Nenets Autonomous Okrug,Mersedes,Naryan-Mar,2,1,0,0
+New Jersey,Mersedes,Clifton,2,1,0,0
+New York,Mersedes,New York,1,1,0,
+Odessa Oblast,Mersedes,Odesa,2,1,1,1
+Ohio,Mersedes,North Olmsted,9,1,1,1
+Ontae220,Mersedes,Toronto,2,1,1,0
+Orenburg Oblast,Mersedes,(not set),1,1,0,
+Oslo,Mersedes,Oslo Municipality,2,1,0,0
+Pavlodar Province,Mersedes,Pavlodar,1,1,,
+Penza Oblast,Mersedes,Penza,4,1,0,0
+Primorsky Krai,Mersedes,Nakhodka,1,1,,
+Primorsky Krai,Mersedes,Ussuriysk,1,1,0,
+Pskov Oblast,Mersedes,Ostrov,1,1,0,0
+Republic of Bashkortostan,Mersedes,Beloretsk,1,1,,
+Republic of Bashkortostan,Mersedes,Sterlitamak,2,1,0,0
+Republic of Dagestan,Mersedes,(not set),3,1,0,0
+Republic of Dagestan,Mersedes,Khasavyurt,3,1,0,0
+Republic of Dagestan,Mersedes,Semender,1,1,,
+Rhineland-Palatinate,Mersedes,Ludwigshafen,1,1,0,
+Riyadh Province,Mersedes,Riyadh,3,1,1,0
+Rogaland,Mersedes,Haugesund Municipality,1,1,0,
+Rostov Oblast,Mersedes,Azov,6,1,0,0
+Rostov Oblast,Mersedes,Belaya Kalitva,1,1,,
+Rostov Oblast,Mersedes,Novocherkassk,5,1,0,0
+Rostov Oblast,Mersedes,Salsk,1,1,1,1
+Sakhalin Oblast,Mersedes,(not set),4,1,0,0
+Samara Oblast,Mersedes,Tolyatti,3,1,0,0
+Saratov Oblast,Mersedes,Engels,2,1,1,0
+Seoul,Mersedes,Seoul,1,1,,
+Sharjah,Mersedes,Sharjah,4,1,0,0
+Skane County,Mersedes,Lund,1,1,1,1
+South District,Mersedes,Be'er Sheva,1,1,,
+South Holland,Mersedes,(not set),1,1,,
+South Holland,Mersedes,Naaldwijk,4,1,1,1
+State of Sao Paulo,Mersedes,Sao Paulo,1,1,1,1
+Stavropol Krai,Mersedes,Goryachevodsky,2,1,1,1
+Stavropol Krai,Mersedes,Inozemtsevo,1,1,1,0
+Stavropol Krai,Mersedes,Svetlograd,1,1,1,1
+Stockholm County,Mersedes,Stockholm,1,1,1,0
+Sverdlovsk Oblast,Mersedes,Aramil,1,1,,
+Sverdlovsk Oblast,Mersedes,Nizhny Tagil,5,1,0,0
+Sverdlovsk Oblast,Mersedes,Nizhnyaya Tura,1,1,1,0
+Taipei City,Mersedes,(not set),1,1,1,0
+Texas,Mersedes,Houston,1,1,,
+Texas,Mersedes,Mansfield,2,1,1,1
+Thuringia,Mersedes,Erfurt,1,1,,
+Thuringia,Mersedes,Muhlhausen,3,1,0,0
+Transnistria,Mersedes,Tiraspol,1,1,0,
+Tripoli District,Mersedes,Tripoli,2,1,0,0
+Tula Oblast,Mersedes,Tula,2,1,0,0
+Tuscany,Mersedes,Florence,4,1,0,0
+Udmurt Republic,Mersedes,Glazov,1,1,,
+Ulyanovsk Oblast,Mersedes,Ulyanovsk,2,1,1,0
+Vastra Gotaland County,Mersedes,Gothenburg,1,1,0,0
+Vienna,Mersedes,Vienna,2,1,0,0
+Volgograd Oblast,Mersedes,(not set),1,1,,
+Vologda Oblast,Mersedes,Vologda,4,1,0,0
+Voronezh Oblast,Mersedes,(not set),3,1,0,0
+Yamalo-Nenets Autonomous Okrug,Mersedes,Gubkinsky,1,1,2,2
+Zabaykalsky Krai,Mersedes,Chita,1,1,,
+Zurich,Mersedes,Zurich,5,1,0,0
+(not set),Mersedes,Ganja,1,0,0,0
+(not set),Mersedes,Molodizhne,1,0,0,0
+(not set),Mersedes,Nouakchott,1,0,0,0
+(not set),Mersedes,Nur-Sultan,2,0,0,0
+(not set),Mersedes,Viline,4,0,0,0
+Adjara,Mersedes,Batumi,1,0,0,0
+Akershus,Mersedes,Baerum,1,0,0,0
+Aktobe Province,Mersedes,Aktobe,3,0,0,0
+Andalusia,Mersedes,Malaga,2,0,0,0
+Aveiro District,Mersedes,Oliveira do Bairro,1,0,0,0
+Baden-Wurttemberg,Mersedes,Winnenden,1,0,0,0
+Baghdad Governorate,Mersedes,Baghdad,2,0,0,0
+Basra Governorate,Mersedes,Al Huwair,1,0,0,0
+Bavaria,Mersedes,Munich,1,0,0,0
+Beijing,Mersedes,Beijing,1,0,0,0
+Berlin,Mersedes,Berlin,2,0,0,0
+Blagoevgrad Province,Mersedes,Gotse Delchev,1,0,0,0
+Brest Region,Mersedes,Brest,1,0,0,0
+Brussels,Mersedes,Brussels,2,0,1,1
+Bryansk Oblast,Mersedes,(not set),1,0,0,0
+Buryatia,Mersedes,Ulan-Ude,1,0,0,0
+Busan,Mersedes,Busan,1,0,0,0
+Buskerud,Mersedes,Hol Municipality,1,0,0,0
+Chelyabinsk Oblast,Mersedes,Ozersk,1,0,0,0
+Crimea,Mersedes,Hvardiis'ke,1,0,0,0
+Dnipropetrovsk Oblast,Mersedes,Kamianske,1,0,0,0
+Donetsk Oblast,Mersedes,Chystiakove,1,0,0,0
+Donetsk Oblast,Mersedes,Novoazovs'k,1,0,0,0
+Dubai,Mersedes,Dubai,2,0,0,0
+England,Mersedes,Horley,1,0,0,0
+Fujian,Mersedes,Putian,2,0,0,0
+Georgia,Mersedes,Atlanta,1,0,0,0
+Georgia,Mersedes,Roswell,1,0,0,0
+Gwangju,Mersedes,Gwangju,1,0,0,0
+Hesse,Mersedes,Darmstadt,1,0,0,0
+Illinois,Mersedes,Chicago,2,0,0,0
+Irkutsk Oblast,Mersedes,(not set),3,0,0,0
+Irkutsk Oblast,Mersedes,Bratsk,1,0,0,0
+Kaliningrad Oblast,Mersedes,Chernyakhovsk,1,0,0,0
+Kemerovo Oblast,Mersedes,(not set),1,0,0,0
+Kemerovo Oblast,Mersedes,Prokopyevsk,1,0,0,0
+Khanty-Mansi Autonomous Okrug,Mersedes,Megion,1,0,0,0
+Komi Republic,Mersedes,Usinsk,1,0,0,0
+Krasnodar Krai,Mersedes,Krylovskaya,1,0,0,0
+Krasnodar Krai,Mersedes,Labinsk,1,0,0,0
+Krasnodar Krai,Mersedes,Ladozhskaya,2,0,0,0
+Krasnodar Krai,Mersedes,Starominskaya,3,0,1,1
+Krasnoyarsk Krai,Mersedes,Achinsk,1,0,0,0
+Krasnoyarsk Krai,Mersedes,Sosnovoborsk,1,0,0,0
+Kursk Oblast,Mersedes,(not set),1,0,0,0
+Kursk Oblast,Mersedes,Zheleznogorsk,1,0,0,0
+Lazio,Mersedes,Rome,1,0,0,0
+Leningrad Oblast,Mersedes,Svetogorsk,1,0,0,0
+Leningrad Oblast,Mersedes,Ul'yanovka,1,0,0,0
+Lodz Voivodeship,Mersedes,Lodz,1,0,0,0
+Lombardy,Mersedes,San Donato Milanese,1,0,0,0
+Luhansk Oblast,Mersedes,Kadiivka,1,0,0,0
+Luhansk Oblast,Mersedes,Kreminna,3,0,0,0
+Luhansk Oblast,Mersedes,Lysychans'k,1,0,0,0
+Mangystau Province,Mersedes,(not set),2,0,0,0
+Minsk Region,Mersedes,Barysaw,1,0,0,0
+Moscow Oblast,Mersedes,Dolgoprudny,2,0,0,0
+Moscow Oblast,Mersedes,Istra,1,0,0,0
+Moscow Oblast,Mersedes,Kolomna,1,0,0,0
+Moscow Oblast,Mersedes,Korolyov,2,0,0,0
+Moscow Oblast,Mersedes,Monino,1,0,0,0
+Moscow Oblast,Mersedes,Mytishchi,1,0,0,0
+Moscow Oblast,Mersedes,Pavlovsky Posad,1,0,0,0
+Moscow Oblast,Mersedes,Volokolamsk,1,0,0,0
+Murmansk Oblast,Mersedes,Severomorsk,1,0,0,0
+New Jersey,Mersedes,North Bergen,2,0,0,0
+New South Wales,Mersedes,Sydney,2,0,0,0
+Nizhny Novgorod Oblast,Mersedes,Dzerzhinsk,1,0,0,0
+North Holland,Mersedes,Haarlem,1,0,0,0
+North Ossetia–Alania,Mersedes,(not set),1,0,0,0
+North Rhine-Westphalia,Mersedes,Krefeld,2,0,0,0
+Nouvelle-Aquitaine,Mersedes,La Celle-sous-Gouzon,1,0,0,0
+Oregon,Mersedes,Boardman,2,0,0,0
+Pennsylvania,Mersedes,Uniontown,1,0,0,0
+Perm Krai,Mersedes,Berezniki,1,0,0,0
+Pichincha,Mersedes,Quito,1,0,0,0
+Pskov Oblast,Mersedes,Velikiye Luki,2,0,0,0
+Punjab,Mersedes,Amritsar,1,0,0,0
+Republic of Dagestan,Mersedes,Kaspiysk,1,0,0,0
+Republic of Dagestan,Mersedes,Kizlyar,4,0,0,0
+Republic of Khakassia,Mersedes,Abakan,1,0,0,0
+Rostov Oblast,Mersedes,Aksay,3,0,0,0
+Sakhalin Oblast,Mersedes,Nogliki,1,0,0,0
+Samtskhe-Javakheti,Mersedes,(not set),1,0,0,0
+Saratov Oblast,Mersedes,(not set),1,0,0,0
+Shida Kartli,Mersedes,(not set),1,0,0,0
+Shirak Province,Mersedes,Gyumri,2,0,0,0
+Sindh,Mersedes,Karachi,1,0,0,0
+South Kazakhstan Province,Mersedes,Shymkent,1,0,0,0
+Stavropol Krai,Mersedes,Budyonnovsk,1,0,0,0
+Sverdlovsk Oblast,Mersedes,Revda,1,0,0,0
+Sverdlovsk Oblast,Mersedes,Serov,1,0,0,0
+Tambov Oblast,Mersedes,Tambov,4,0,0,0
+Tatarstan,Mersedes,Naberezhnye Chelny,2,0,0,0
+Tbilisi,Mersedes,Tbilisi,1,0,0,0
+Tula Oblast,Mersedes,Novomoskovsk,1,0,0,0
+Tyumen Oblast,Mersedes,Tobolsk,1,0,0,0
+Utrecht,Mersedes,Soest,1,0,0,0
+Vitebsk Region,Mersedes,Viciebsk,1,0,0,0
+Vladimir Oblast,Mersedes,Vladimir,1,0,0,0
+Voronezh Oblast,Mersedes,Borisoglebsk,1,0,0,0
+West Kazakhstan Province,Mersedes,Uralsk,1,0,0,0
+Yamalo-Nenets Autonomous Okrug,Mersedes,Labytnangi,1,0,0,0
+Yaroslavl Oblast,Mersedes,Rybinsk,1,0,0,0
+Zaporizhia Oblast,Mersedes,Zaporizhzhia,3,0,0,0
